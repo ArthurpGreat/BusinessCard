@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="email">arthur@gmail.com</string>
+    <string name="username">\@androidDev</string>
+    <string name="phone">0819038737</string>
+    <string name="level">Senior Android Developer</string>
+    <string name="namr">Arthur peace</string>
+</resources>
